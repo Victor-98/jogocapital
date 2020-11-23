@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">jogocapital</string>
+    <string name="nome_estado">Qual é o nome da capital do estado a seguir?</string>
+    <string name="capital_input">Digite o nome da capital aqui</string>
+    <string name="pontuacao_atual">Pontuação Atual : </string>
+    <string name="confirmar_acao">Confirmar</string>
+    <string name="resultado_pergunta">Aguardando resposta...</string>
+    <string name="prox_pergunta">Próxima pergunta</string>
+</resources>
